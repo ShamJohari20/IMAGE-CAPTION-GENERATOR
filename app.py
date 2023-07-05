@@ -3,7 +3,7 @@ import os
 #import matplotlib.pyplot as plt
 
 #from tensorflow.keras.applications.vgg16 import VGG16, preprocess_input
-from tensorflow.keras.preprocessing.text import Tokenizer
+#from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.models import Model
 from tensorflow.keras.utils import to_categorical, plot_model
 from tensorflow.keras.layers import Input, Dense, LSTM, Embedding, Dropout, add
