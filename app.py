@@ -2,7 +2,7 @@ import os
 #from tqdm.notebook import tqdm
 #import matplotlib.pyplot as plt
 
-from tensorflow.keras.applications.vgg16 import VGG16, preprocess_input
+#from tensorflow.keras.applications.vgg16 import VGG16, preprocess_input
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.models import Model
 from tensorflow.keras.utils import to_categorical, plot_model
