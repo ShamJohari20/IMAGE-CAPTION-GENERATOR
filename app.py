@@ -1,6 +1,6 @@
 import os
 #from tqdm.notebook import tqdm
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 from tensorflow.keras.applications.vgg16 import VGG16, preprocess_input
 from tensorflow.keras.preprocessing.text import Tokenizer
